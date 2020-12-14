@@ -1,0 +1,729 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  14 DEC 2020 15:09
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(D:\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (D:\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(D:\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+ (D:\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count184
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(D:\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count185
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count186
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(D:\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen140
+))
+(D:\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(D:\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks19
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks20
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(D:\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(D:\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(D:\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(D:\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(D:\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(D:\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (D:\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks24
+ (D:\MiKTeX\tex/latex/geometry\geometry.cfg))
+(D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box49
+) (document.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+
+(D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen159
+\scratchbox=\box50
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen160
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks26
+) (D:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=700.50723pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-31.87398pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<img/uptlogo.png, id=1, 78.2925pt x 105.39375pt>
+File: img/uptlogo.png Graphic file (type png)
+<use img/uptlogo.png>
+Package pdftex.def Info: img/uptlogo.png  used on input line 19.
+(pdftex.def)             Requested size: 142.28348pt x 199.1743pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+
+ []
+
+[1
+
+{C:/Users/Joaquin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/uptlogo
+.png>]
+Overfull \hbox (43.10562pt too wide) in paragraph at lines 44--45
+[]\OT1/cmr/m/n/14.4 Obtener el ins-ta-la-dor pa-ra Win-dows (https://www.mongod
+b.com/download-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+<img/1.png, id=12, 575.90157pt x 190.46156pt>
+File: img/1.png Graphic file (type png)
+<use img/1.png>
+Package pdftex.def Info: img/1.png  used on input line 46.
+(pdftex.def)             Requested size: 455.25603pt x 142.26746pt.
+
+Overfull \hbox (31.66246pt too wide) in paragraph at lines 46--47
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+<img/2.png, id=13, 470.50781pt x 173.89969pt>
+File: img/2.png Graphic file (type png)
+<use img/2.png>
+Package pdftex.def Info: img/2.png  used on input line 50.
+(pdftex.def)             Requested size: 455.2505pt x 113.81091pt.
+<img/3.png, id=14, 408.77719pt x 317.68687pt>
+File: img/3.png Graphic file (type png)
+<use img/3.png>
+Package pdftex.def Info: img/3.png  used on input line 51.
+(pdftex.def)             Requested size: 455.26997pt x 284.55338pt.
+<img/4.png, id=15, 461.47406pt x 297.36093pt>
+File: img/4.png Graphic file (type png)
+<use img/4.png>
+Package pdftex.def Info: img/4.png  used on input line 52.
+(pdftex.def)             Requested size: 455.24117pt x 284.54216pt.
+
+Overfull \hbox (31.65694pt too wide) in paragraph at lines 50--53
+[][] 
+ []
+
+
+Overfull \hbox (31.6764pt too wide) in paragraph at lines 50--53
+[] 
+ []
+
+
+Overfull \hbox (31.6476pt too wide) in paragraph at lines 50--53
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+
+ []
+
+[2 <./img/1.png> <./img/2.png> <./img/3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
+
+ []
+
+<img/5.png, id=22, 109.1578pt x 96.36pt>
+File: img/5.png Graphic file (type png)
+<use img/5.png>
+Package pdftex.def Info: img/5.png  used on input line 60.
+(pdftex.def)             Requested size: 227.62416pt x 142.26353pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+[3 <./img/4.png> <./img/5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+<img/6.png, id=28, 222.07968pt x 128.73094pt>
+File: img/6.png Graphic file (type png)
+<use img/6.png>
+Package pdftex.def Info: img/6.png  used on input line 70.
+(pdftex.def)             Requested size: 455.27644pt x 256.09799pt.
+<img/7.png, id=29, 408.77719pt x 103.88812pt>
+File: img/7.png Graphic file (type png)
+<use img/7.png>
+Package pdftex.def Info: img/7.png  used on input line 71.
+(pdftex.def)             Requested size: 455.26997pt x 256.1054pt.
+
+Overfull \hbox (31.68288pt too wide) in paragraph at lines 70--72
+[][] 
+ []
+
+
+Overfull \hbox (31.6764pt too wide) in paragraph at lines 70--72
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[4 <./img/6.png> <./img/7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+<img/8.png, id=35, 572.1375pt x 295.1025pt>
+File: img/8.png Graphic file (type png)
+<use img/8.png>
+Package pdftex.def Info: img/8.png  used on input line 81.
+(pdftex.def)             Requested size: 455.24872pt x 256.07967pt.
+
+Overfull \hbox (31.65515pt too wide) in paragraph at lines 81--82
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+<img/9.png, id=36, 549.55313pt x 267.24844pt>
+File: img/9.png Graphic file (type png)
+<use img/9.png>
+Package pdftex.def Info: img/9.png  used on input line 86.
+(pdftex.def)             Requested size: 455.2569pt x 256.09886pt.
+
+Overfull \hbox (31.66333pt too wide) in paragraph at lines 86--87
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[5 <./img/8.png> <./img/9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
+
+ []
+
+<img/10.png, id=42, 527.72156pt x 235.63031pt>
+File: img/10.png Graphic file (type png)
+<use img/10.png>
+Package pdftex.def Info: img/10.png  used on input line 98.
+(pdftex.def)             Requested size: 455.24086pt x 256.0769pt.
+
+Overfull \hbox (31.6473pt too wide) in paragraph at lines 98--99
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+<img/11.png, id=43, 169.38281pt x 24.84282pt>
+File: img/11.png Graphic file (type png)
+<use img/11.png>
+Package pdftex.def Info: img/11.png  used on input line 105.
+(pdftex.def)             Requested size: 455.26167pt x 113.84196pt.
+
+Overfull \hbox (31.6681pt too wide) in paragraph at lines 105--106
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+[6 <./img/10.png> <./img/11.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+<img/12.png, id=49, 236.38312pt x 37.64063pt>
+File: img/12.png Graphic file (type png)
+<use img/12.png>
+Package pdftex.def Info: img/12.png  used on input line 117.
+(pdftex.def)             Requested size: 455.25713pt x 113.83418pt.
+
+Overfull \hbox (31.66356pt too wide) in paragraph at lines 117--118
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 	\includegraphics
+                       [width=16cm, height=4cm]{img/13.png}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<img/13.png, id=50, 303.38344pt x 24.09pt>
+File: img/13.png Graphic file (type png)
+<use img/13.png>
+Package pdftex.def Info: img/13.png  used on input line 129.
+(pdftex.def)             Requested size: 455.25456pt x 113.82979pt.
+
+Overfull \hbox (31.661pt too wide) in paragraph at lines 129--130
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+[7 <./img/12.png> <./img/13.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 	\includegraphics
+                       [width=16cm, height=2cm]{img/14.png}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<img/14.png, id=57, 408.77719pt x 27.85406pt>
+File: img/14.png Graphic file (type png)
+<use img/14.png>
+Package pdftex.def Info: img/14.png  used on input line 144.
+(pdftex.def)             Requested size: 455.26997pt x 56.91031pt.
+
+Overfull \hbox (31.6764pt too wide) in paragraph at lines 144--145
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 	\includegraphics
+                       [width=16cm, height=2cm]{img/15.png}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<img/15.png, id=58, 545.78906pt x 28.60687pt>
+File: img/15.png Graphic file (type png)
+<use img/15.png>
+Package pdftex.def Info: img/15.png  used on input line 155.
+(pdftex.def)             Requested size: 455.24504pt x 56.90804pt.
+
+Overfull \hbox (31.65147pt too wide) in paragraph at lines 155--156
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 	\includegraphics
+                       [width=16cm, height=2cm]{img/16.png}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<img/16.png, id=59, 575.14874pt x 21.07875pt>
+File: img/16.png Graphic file (type png)
+<use img/16.png>
+Package pdftex.def Info: img/16.png  used on input line 167.
+(pdftex.def)             Requested size: 455.25769pt x 56.90688pt.
+
+Overfull \hbox (31.66412pt too wide) in paragraph at lines 167--168
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+[8 <./img/14.png> <./img/15.png> <./img/16.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 	\includegraphics
+                       [width=16cm, height=5cm]{img/17.png}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<img/17.png, id=66, 594.72188pt x 99.37125pt>
+File: img/17.png Graphic file (type png)
+<use img/17.png>
+Package pdftex.def Info: img/17.png  used on input line 183.
+(pdftex.def)             Requested size: 455.24208pt x 142.28023pt.
+
+Overfull \hbox (31.64851pt too wide) in paragraph at lines 183--184
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 	\includegraphics
+                       [width=16cm, height=8cm]{img/18.png}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<img/18.png, id=67, 495.35063pt x 168.63pt>
+File: img/18.png Graphic file (type png)
+<use img/18.png>
+Package pdftex.def Info: img/18.png  used on input line 196.
+(pdftex.def)             Requested size: 455.24437pt x 227.62779pt.
+
+Overfull \hbox (31.6508pt too wide) in paragraph at lines 196--197
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+[9 <./img/17.png> <./img/18.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--207
+
+ []
+
+<img/19.png, id=73, 604.50844pt x 181.42781pt>
+File: img/19.png Graphic file (type png)
+<use img/19.png>
+Package pdftex.def Info: img/19.png  used on input line 208.
+(pdftex.def)             Requested size: 455.24347pt x 113.81288pt.
+
+Overfull \hbox (31.6499pt too wide) in paragraph at lines 208--209
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+[10 <./img/19.png>] (document.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4106 strings out of 480236
+ 53917 string characters out of 2897071
+ 349853 words of memory out of 3000000
+ 20624 multiletter control sequences out of 15000+200000
+ 537856 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,5n,66p,507b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmcsc10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on document.pdf (10 pages, 1175054 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
